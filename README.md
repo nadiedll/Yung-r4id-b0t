@@ -10,11 +10,10 @@
 - Hecho en python=3.11
 
 ```
-apt install python3 -y
-```
-```
+apt install python2-pip -y
 sudo apt install git -y
-```
-```
+git clone https://github.com/Blackhat-YungAp/Yung-r4id-b0t
+cd Yung-r4id-b0t
+pip3 install -r requirements.txt
 python3 main.py
 ```
