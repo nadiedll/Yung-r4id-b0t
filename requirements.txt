@@ -1,0 +1,14 @@
+discord.py
+discord
+datetime
+platform
+socket
+colorama
+ctypes
+os
+asyncio
+pystyle
+requests
+ipaddress
+pyarmor
+pytransform
