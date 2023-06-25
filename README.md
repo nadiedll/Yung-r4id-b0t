@@ -14,10 +14,10 @@
 [**INSTALA PYTHON PARA WINDOWS**](https://www.python.org/downloads/)
 
 ```
-apt install python2-pip -y
+apt install python3-pip -y
 sudo apt install git -y
 git clone https://github.com/Blackhat-YungAp/Yung-r4id-b0t
 cd Yung-r4id-b0t
 pip3 install -r requirements.txt
-python3 main.py
+python3 yungbot.py
 ```
