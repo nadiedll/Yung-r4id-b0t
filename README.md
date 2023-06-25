@@ -9,6 +9,10 @@
 - 1k en menos de 1m
 - Hecho en python=3.11
 
+[**DISCORD YUNG FAMILY GANG UNETE**](https://discord.gg/seso)
+
+[**INSTALA PYTHON PARA WINDOWS**](https://www.python.org/downloads/)
+
 ```
 apt install python2-pip -y
 sudo apt install git -y
