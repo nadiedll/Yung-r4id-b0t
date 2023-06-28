@@ -1,4 +1,5 @@
-![image](https://github.com/Blackhat-YungAp/Yung-r4id-b0t/assets/101432325/4e46f714-33eb-4bbb-96bd-1d18b267007e)
+
+![1618-megaphone](https://github.com/Blackhat-YungAp/Yung-r4id-b0t/assets/101432325/45b4cdb0-0825-485a-83f9-9237363f8753)
 
 # YungR4id DiscordBot
 
