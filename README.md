@@ -22,7 +22,7 @@ sudo apt install git -y
 git clone https://github.com/Blackhat-YungAp/Yung-r4id-b0t
 cd Yung-r4id-b0t
 pip3 install -r requirements.txt
-python3 yungbot.py
+python3 main.py
 ```
 # Comandos para windows
 
