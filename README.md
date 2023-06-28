@@ -22,3 +22,12 @@ cd Yung-r4id-b0t
 pip3 install -r requirements.txt
 python3 yungbot.py
 ```
+# Comandos para windows
+
+```
+python -v
+python3 -m pip install -r requirements.txt
+pip3 install -r requirements.txt
+python3 yungbot.py
+```
+
