@@ -14,6 +14,8 @@
 
 [**INSTALA PYTHON PARA WINDOWS**](https://www.python.org/downloads/)
 
+# Comandos para linux | Debian | Kali linux
+
 ```
 apt install python3-pip -y
 sudo apt install git -y
